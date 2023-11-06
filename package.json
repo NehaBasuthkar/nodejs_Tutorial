@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NehaBasuthkar/nodejs_Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NehaBasuthkar/nodejs_Tutorial/issues"
+  },
+  "homepage": "https://github.com/NehaBasuthkar/nodejs_Tutorial#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
